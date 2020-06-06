@@ -4,9 +4,7 @@
         "details": [
             {
                 "appID": "37Q58WDHKM.com.dbs.cardplus.tw2",
-                "paths": [
-                    "*"
-                ]
+                "paths": [ "*" ]
             }
         ]
     }
